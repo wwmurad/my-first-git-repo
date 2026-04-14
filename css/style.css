@@ -1,0 +1,29 @@
+h2{
+    font-family: 'Courier New', Courier, monospace;
+    font-style: italic;
+}
+.login{
+    background-color:beige;
+    display: inline-block;
+    padding: 10px 10px;
+}
+input[type="submit"]{
+    display: block;
+    margin: auto;
+    background-color: aquamarine;
+    border-radius: 15px;
+    cursor: pointer;
+}
+.signup{
+    background-color: aquamarine;
+display: inline-block;
+margin-top: 10px;
+width: 190px;
+text-align: center;
+    border-radius: 15px;
+}
+.signup a {
+    font-size: 17px;
+    text-decoration: none;
+    color:crimson;
+}
